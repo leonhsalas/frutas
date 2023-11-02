@@ -1,0 +1,48 @@
+.container-movies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 20px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: .5cm;
+}
+
+.card-img-top{
+    width: 240px;
+}
+
+.btn{
+    background-color: #0D6EFD;
+    border-radius: 10%;
+    padding: 4%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+    line-height: 25px;
+}
+
+.navbar-navbar-lightbg-light{
+    background-color: whitesmoke;
+    height: 5cm;
+
+}
+
+#soriana{
+    margin-left: 11%;
+    margin-top: 25px;
+}
